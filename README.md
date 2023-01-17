@@ -92,11 +92,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [React Project Tutorial - Build a Portfolio Website w/ Advanced Animation](https://youtu.be/bmpI252DmiI) - Reviewed for guidance on how to setup and approach creating a React site.
 
 - [What's new in React Router V6](https://medium.com/@manishsundriyal/whats-new-in-react-router-v6-20eefe665be9)
-- [](https://css-tricks.com/the-sass-ampersand/)
+- [The Sass Ampersand](https://css-tricks.com/the-sass-ampersand/)
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
