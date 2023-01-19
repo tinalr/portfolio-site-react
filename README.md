@@ -1,4 +1,4 @@
-# Portfolio Site - IN PROGRESS
+# Portfolio Site - 01/19/2023 Archiving and starting over with Vite; see portfolio-vite-react.
 
 <!-- ## Table of contents
 
